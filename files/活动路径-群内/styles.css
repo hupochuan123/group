@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:2355px;
+  width:2372px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -126,7 +126,7 @@
   left:0px;
   top:0px;
   width:485px;
-  height:591px;
+  height:696px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -142,7 +142,7 @@
   left:308px;
   top:1238px;
   width:485px;
-  height:591px;
+  height:696px;
   font-size:18px;
   color:#000000;
 }
@@ -282,8 +282,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:157px;
-  height:28px;
+  width:113px;
+  height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -294,26 +294,26 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  font-size:20px;
+  font-size:28px;
   color:#009933;
 }
 #u86 {
   position:absolute;
-  left:453px;
-  top:468px;
-  width:157px;
-  height:28px;
+  left:466px;
+  top:452px;
+  width:113px;
+  height:40px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  font-size:20px;
+  font-size:28px;
   color:#009933;
 }
 #u87 {
   position:absolute;
   left:0px;
   top:0px;
-  width:157px;
+  width:113px;
   white-space:nowrap;
 }
 #u88_img {
@@ -884,7 +884,7 @@
 #u121 {
   position:absolute;
   left:343px;
-  top:1954px;
+  top:1978px;
   width:358px;
   height:336px;
 }
@@ -1905,7 +1905,7 @@
 }
 #u182 {
   position:absolute;
-  left:1922px;
+  left:1939px;
   top:1183px;
   width:433px;
   height:192px;
@@ -1994,8 +1994,8 @@
 }
 #u188 {
   position:absolute;
-  left:452px;
-  top:2571px;
+  left:449px;
+  top:2590px;
   width:148px;
   height:97px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -2054,8 +2054,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:235px;
-  height:25px;
+  width:217px;
+  height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2064,20 +2064,22 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:18px;
+  text-align:center;
 }
 #u192 {
   position:absolute;
   left:414px;
   top:2498px;
-  width:235px;
-  height:25px;
+  width:217px;
+  height:50px;
   font-size:18px;
+  text-align:center;
 }
 #u193 {
   position:absolute;
   left:0px;
   top:0px;
-  width:235px;
+  width:217px;
   white-space:nowrap;
 }
 #u194_div {
